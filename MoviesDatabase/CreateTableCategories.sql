@@ -1,0 +1,7 @@
+CREATE TABLE Categories
+(
+	Id INT NOT NULL IDENTITY, 
+	CategoryName VARCHAR(50), 
+	Notes VARCHAR(MAX),
+	CONSTRAINT PK_Categories PRIMARY KEY(Id)
+)

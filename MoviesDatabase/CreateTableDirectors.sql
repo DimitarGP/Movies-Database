@@ -1,0 +1,7 @@
+CREATE TABLE Directors
+(
+	Id INT NOT NULL IDENTITY,
+	DirectorName VARCHAR(30),
+	Notes VARCHAR(MAX)
+	CONSTRAINT PK_Direktors PRIMARY KEY(Id)
+)

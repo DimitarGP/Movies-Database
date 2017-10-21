@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MoviesDatabase">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-MM7OO9Q:DESKTOP-MM7OO9Q\PetkovDG">
+          <Created>2017-10-21T10:15:14.6096027+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-MM7OO9Q</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CreateDatabaseMove.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateDatabaseMove.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTableCategories.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTableCategories.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTableDirectors.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTableDirectors.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTableGenres.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTableGenres.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTableMovies.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTableMovies.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertCategories.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>InsertCategories.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertDirectors.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>InsertDirectors.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertGenres.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>InsertGenres.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertMovies.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MM7OO9Q:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MM7OO9Q</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>InsertMovies.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
